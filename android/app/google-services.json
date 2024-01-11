@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "938744634393",
+    "project_id": "newproject-13c59",
+    "storage_bucket": "newproject-13c59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938744634393:android:5a1e086d54a0d7a5cb5e88",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase_input_data"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn-5IZNVoK3cDG5LOzju3tWCmlgI7I-n8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938744634393:android:72fa81b9a6de66b1cb5e88",
+        "android_client_info": {
+          "package_name": "com.example.music_melody"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn-5IZNVoK3cDG5LOzju3tWCmlgI7I-n8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
